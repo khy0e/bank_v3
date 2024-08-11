@@ -1,0 +1,38 @@
+# CMake 빌드 디렉토리
+/build/
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+*.ninja
+*.ninja_deps
+*.ninja_log
+
+# Qt 관련 빌드 파일
+*.moc
+*.qrc
+*.ui
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.pdb
+*.dSYM/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.suo
+*.log
+
+# 임시 파일
+*.log
+*.tmp
+*.swp
+
+# 사용자별 설정 파일
+*.sublime-workspace
+*.sublime-project
+
